@@ -1,0 +1,59 @@
+.header{
+
+    padding: 80px;
+    text-align: center;
+    background:white;
+    color:red;
+}
+
+.header h1 {
+
+    font-size: 60px;
+  }
+
+.header p {
+    font-size: 20px;
+}
+
+.navegador{
+    overflow: hidden;
+    background-color: rgb(255, 0, 0);
+
+}
+
+.navegador a{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+.navegador a.linkproximo{
+    float: right;
+}
+
+.imagemcapa{
+    padding: 10px 400px;
+    
+
+}
+
+.informativo{
+    padding: 30px;
+    padding-bottom: 50px;
+    text-align: center;
+    background-color: rgb(243, 0, 0);
+    color:rgb(255, 255, 255);
+
+}
+
+.informativo h1{
+    text-align: center;
+}
+
+.informativo p{
+    text-align: justify;
+    text-indent: 50px;
+}

@@ -1,0 +1,32 @@
+.header {
+    padding: 80px;
+    text-align: center;
+    background: orange;
+    color: white;
+  }
+
+.header h1 {
+    font-size: 60px;
+  }
+
+.header p {
+    font-size: 20px;
+}
+
+.navegador {
+    overflow: hidden;
+    background-color: grey;
+}
+
+.navegador a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+.mapaturistico {
+    padding: 50px 150px;
+}

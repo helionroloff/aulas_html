@@ -1,0 +1,53 @@
+.header{
+    padding: 80px;
+    text-align: center;
+    background: cyan;
+    color: darkslategrey;
+}
+
+.header h1 {
+    font-size: 60px;
+  }
+
+.header p {
+    font-size: 20px;
+}
+
+.navegador{
+    overflow: hidden;
+    background-color: rgb(204, 117, 77);
+
+}
+
+.navegador a{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+.navegador a.linkproximo{
+    float: right;
+}
+
+.imagemcapa{
+    padding: 10px 180px;
+}
+
+.informativo{
+    padding: 20px;
+    text-align: center;
+    background-color: sandybrown;
+    color: brown;
+}
+
+.informativo h1{
+    text-align: center;
+}
+
+.informativo p{
+    text-align: justify;
+    text-indent: 50px;
+}
