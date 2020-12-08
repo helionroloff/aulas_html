@@ -1,0 +1,61 @@
+#cabecalho{
+    padding: 80px;
+    text-align: center;
+    background: cyan;
+    color: darkslategrey;
+
+}
+
+.fundo_tabela1{
+    background-color: brown;
+
+}
+
+.fundo_tabela2{
+    background-color: rgb(189, 145, 23);
+    color: darkred;
+
+}
+
+.fundo_tabela3{
+    background-color: rgb(1, 85, 1);
+    color: wheat;
+
+}
+
+.fundo_tabela4{
+    background-color: rgb(221, 96, 13);
+    color: white;
+
+}
+
+.fundo_tabela5{
+    background-color: rgb(185, 3, 3);
+    color: white;
+
+}
+
+#lista{
+    padding: 25px;
+    background: darkslategrey;
+    color: cyan;
+    text-indent: 10px;
+}
+
+
+.table{
+    padding: .7em;
+    margin: 0;
+}
+
+.head{
+    padding: 3px;
+}
+
+.rodape{
+    padding: 10px;
+    background-color: teal;
+}
+.rodape a{
+    color: white;
+}
